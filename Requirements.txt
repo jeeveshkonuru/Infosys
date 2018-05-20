@@ -1,0 +1,8 @@
+Make sure you have Microsoft Visual C++ 14.0
+Install the Following Python Libraries:-
+1. textract (pip install textract)
+2. ijson (pip install textract)
+3. unidecode (pip install unidecode)
+4. pyphen (pip install pyphen)
+5. Levenshtein (http://www.lfd.uci.edu/~gohlke/pythonlibs/#python-levenshtein; pip install python_Levenshtein‑0.12.0‑cp35‑cp35m‑win_amd64.whl)
+6. cld2-cffi (pip install cld2-cffi)
